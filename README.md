@@ -1,6 +1,15 @@
 <h2>Junior Frontend Developer - 1,5 years experience</h3>
-<h1>Kudin Nikita aka Tyson White</h1>
-<h4>Web Development Stack</h4>
+<h1 align="center">Kudin Nikita aka Tyson White</h1>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/dd/0f/5a/dd0f5acd0237db72769dad85b575bfb9.gif" width="200"/>
+</div>
+<div align="center">
+  <a href="https://t.me/tyson_why">
+    <img src="https://static.insales-cdn.com/files/1/526/34144782/original/телега_1711971983493-1711971987606.png" width="70"/>
+  </a>
+</div>
+<div align="center"><a href="https://t.me/tyson_why" >@tyson_why</a></div>
+<h4>Web Development Stack ⚒</h4>
 <div>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -21,3 +30,11 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </div>
 
+<h2>📒 Work Experience </h2>
+<h3><a href="https://heavens.pro/">Heavens.pro</a> - 1 year | Junior Frontend Developer ⭐️ </h3>
+<ul>
+  <li>Creating SPA websites on NextJS</li>
+  <li>Interaction with server side through custom API</li>
+  <li>Creating animations using GSAP library and Motion</li>
+</ul>
+<h3><a href="https://kwork.ru/seller">Kwork </a> - freelance | HTML + CSS development</h3>
