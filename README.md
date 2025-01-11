@@ -31,7 +31,7 @@
 </div>
 
 <h2>📒 Work Experience </h2>
-<h3><a href="https://heavens.pro/">Heavens.pro</a> - 1 year | Junior Frontend Developer ⭐️ </h3>
+<h3><a href="https://heavens.pro/">Heavens.pro</a> - 1 year | Frontend Developer ⭐️ </h3>
 <ul>
   <li>Creating SPA websites on NextJS</li>
   <li>Interaction with server side through custom API</li>
