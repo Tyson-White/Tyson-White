@@ -23,7 +23,7 @@
   + Zustand
   + GSAP
 </div>
-<h4>Other IT Skills</h4>
+<h4>Other Skills</h4>
 <div id="header" >
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"  />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
