@@ -1,4 +1,4 @@
-<h2>Junior Frontend Developer - 1,5 years experience</h3>
+<h2>Frontend Developer - about 2 years experience</h3>
 <h1 align="center">Kudin Nikita aka Tyson White</h1>
 <div align="center">
   <img src="https://i.pinimg.com/originals/dd/0f/5a/dd0f5acd0237db72769dad85b575bfb9.gif" width="200"/>
