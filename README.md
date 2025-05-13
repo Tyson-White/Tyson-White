@@ -1,4 +1,4 @@
-<h2>Frontend Developer - about 2 years experience</h3>
+<h2>Frontend Developer</h3>
 <h1 align="center">Kudin Nikita aka Tyson White</h1>
 
 <div align="center"><a href="https://t.me/tyson_why" >@tyson_why</a></div>
