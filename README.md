@@ -1,13 +1,6 @@
 <h2>Frontend Developer - about 2 years experience</h3>
 <h1 align="center">Kudin Nikita aka Tyson White</h1>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/dd/0f/5a/dd0f5acd0237db72769dad85b575bfb9.gif" width="200"/>
-</div>
-<div align="center">
-  <a href="https://t.me/tyson_why">
-    <img src="https://static.insales-cdn.com/files/1/526/34144782/original/телега_1711971983493-1711971987606.png" width="70"/>
-  </a>
-</div>
+
 <div align="center"><a href="https://t.me/tyson_why" >@tyson_why</a></div>
 <h4>Web Development Stack ⚒</h4>
 <div>
