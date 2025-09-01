@@ -1,5 +1,5 @@
 <h2>Frontend Developer</h3>
-<h1 align="center">Kudin Nikita aka Tyson White</h1>
+<h1 align="center">Nikita Kudin aka Tyson White</h1>
 
 <h4>Web Development Stack ⚒</h4>
 <div>
@@ -23,10 +23,15 @@
 </div>
 
 <h2>📒 Work Experience </h2>
-<h3><a href="https://heavens.pro/">Heavens.pro</a> - 1 year | Frontend Developer ⭐️ </h3>
+<h3><a href="https://heavens.pro/">Heavens.pro</a> - 2 years | Frontend Developer ⭐️ </h3>
 <ul>
   <li>Creating SPA websites on NextJS</li>
   <li>Interaction with server side through custom API</li>
   <li>Creating animations using GSAP library and Motion</li>
 </ul>
-<h3><a href="https://kwork.ru/seller">Kwork </a> - freelance | HTML + CSS development</h3>
+<h3><a href="https://heavens.pro/">Vensta</a> - 2 years | React Native Developer ⭐️ </h3>
+<ul>
+  <li>Creating UI interface for android/ios car washe services</li>
+  <li>Interaction with server side through custom API</li>
+</ul>
+
